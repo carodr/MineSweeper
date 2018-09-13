@@ -1,9 +1,9 @@
 #MINESWEEPER GAME
 
- Version: 1.0
- Author: Carolina Dorado
- Date: 11/09/2018
- Programming Language: Java
+ Version: 1.0   
+ Author: Carolina Dorado   
+ Date: 11/09/2018    
+ Programming Language: Java   
 
 To run the program do the next steps:
 
