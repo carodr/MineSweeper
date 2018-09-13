@@ -1,4 +1,4 @@
-#MINESWEEPER GAME
+MINESWEEPER GAME
 
  Version: 1.0
  Author: Carolina Dorado
